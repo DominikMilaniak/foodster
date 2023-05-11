@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/foodster/static/css/main.fb0fdbc8.css",
-    "main.js": "/foodster/static/js/main.7b105c2a.js",
+    "main.css": "/foodster/static/css/main.65346407.css",
+    "main.js": "/foodster/static/js/main.fdf04478.js",
     "static/js/787.9b0804cc.chunk.js": "/foodster/static/js/787.9b0804cc.chunk.js",
     "index.html": "/foodster/index.html",
-    "main.fb0fdbc8.css.map": "/foodster/static/css/main.fb0fdbc8.css.map",
-    "main.7b105c2a.js.map": "/foodster/static/js/main.7b105c2a.js.map",
+    "main.65346407.css.map": "/foodster/static/css/main.65346407.css.map",
+    "main.fdf04478.js.map": "/foodster/static/js/main.fdf04478.js.map",
     "787.9b0804cc.chunk.js.map": "/foodster/static/js/787.9b0804cc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fb0fdbc8.css",
-    "static/js/main.7b105c2a.js"
+    "static/css/main.65346407.css",
+    "static/js/main.fdf04478.js"
   ]
 }
