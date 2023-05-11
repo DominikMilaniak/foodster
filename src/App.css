@@ -1,0 +1,115 @@
+.App {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  color: red;
+}
+
+input[type="number"] {
+  -webkit-appearance: textfield;
+  -moz-appearance: textfield;
+  appearance: textfield;
+}
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+}
+
+.dateAdjuster {
+  position: relative;
+}
+
+.dateValues {
+  border: 2px solid #ddd;
+  display: inline-flex;
+}
+
+.dateValues,
+.dateValues * {
+  box-sizing: border-box;
+}
+
+.dateValues button {
+  outline: none;
+  -webkit-appearance: none;
+  background-color: transparent;
+  border: none;
+  align-items: center;
+  justify-content: center;
+  width: 3rem;
+  height: 3rem;
+  cursor: pointer;
+  margin: 0;
+  position: relative;
+}
+
+.dateValues input[type="number"] {
+  font-family: sans-serif;
+  max-width: 6rem;
+  padding: 0.5rem;
+  border: solid #ddd;
+  border-width: 0 2px;
+  font-size: 2rem;
+  height: 3rem;
+  font-weight: bold;
+  text-align: center;
+}
+
+.camera {
+  position: relative;
+  width: 500px;
+  height: 500px;
+  top: 0;
+  left: 0;
+  z-index: 1;
+}
+
+.photo {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: 99;
+  display: none;
+}
+
+.result {
+  position: relative;
+}
+
+.saveButton {
+  background-color: green;
+  width: 100px;
+  height: 100px;
+  margin-left: 20px;
+}
+
+.expirationDate {
+  font-size: 48px;
+  color: green;
+}
+
+.scanButton {
+  position: relative;
+  width: 100px;
+  height: 100px;
+}
+
+.input-wrapper {
+  position: relative;
+  margin-left: 100px;
+}
+
+.hasPhoto {
+  display: block;
+}
+
+video {
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+}
