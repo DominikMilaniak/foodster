@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/foodster/static/css/main.895a8c02.css",
+    "main.js": "/foodster/static/js/main.f6561680.js",
+    "static/js/787.9b0804cc.chunk.js": "/foodster/static/js/787.9b0804cc.chunk.js",
+    "index.html": "/foodster/index.html",
+    "main.895a8c02.css.map": "/foodster/static/css/main.895a8c02.css.map",
+    "main.f6561680.js.map": "/foodster/static/js/main.f6561680.js.map",
+    "787.9b0804cc.chunk.js.map": "/foodster/static/js/787.9b0804cc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.895a8c02.css",
+    "static/js/main.f6561680.js"
+  ]
+}
