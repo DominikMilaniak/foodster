@@ -18,7 +18,7 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "/",
+  "start_url": "https://dominikmilaniak.github.io/foodster",
   "display": "standalone",
   "theme_color": "#FEFEE3",
   "background_color": "#FEFEE3"
